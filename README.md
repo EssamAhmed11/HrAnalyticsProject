@@ -24,6 +24,9 @@
                   or may be seasonal deases.”Enable better sanitizations or take special measures”
                   
       - Learn PowerBI basics Through this project. How to do analysis by herself, and also need to upload the data by herself.
+      
+      ![image](https://user-images.githubusercontent.com/52174006/201449295-ae550bf0-b3e5-4ba7-8975-81038b31680c.png)
+
 
 ## Conclusion of the insights:
     In the last 3 months:
